@@ -4,7 +4,7 @@
 
 >Projeto construido para ser usado como site de eventos de artes marciais apenas para desktop
 
-[Clique aqui para acessar](https://kaicmachado.github.io/nlw-esports/)
+[Clique aqui para acessar](https://kaicmachado.github.io/ArteSuave)
 
 ## 🛠 Tecnologias 
 
